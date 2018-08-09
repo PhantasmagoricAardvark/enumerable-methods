@@ -1,1 +1,1 @@
-Rebuilding Enumerable module methods with Ruby
+Rebuilding Ruby Enumerable module methods without actually using the methods.
